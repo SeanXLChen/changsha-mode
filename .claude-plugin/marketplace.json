@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "changsha-mode",
+  "description": "长沙话模式 for Claude Code",
+  "owner": {
+    "name": "SeanXLChen",
+    "url": "https://github.com/SeanXLChen"
+  },
+  "plugins": [
+    {
+      "name": "changsha-mode",
+      "description": "🍊 让 Claude 变成刚嗦完米粉的长沙程序员：代码一个字不改，说话带辣椒味 🌶️ Makes Claude talk like a Changsha programmer; code stays exact.",
+      "source": "./",
+      "category": "fun"
+    }
+  ]
+}
