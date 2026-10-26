@@ -60,9 +60,9 @@
 ## 📜 版权
 
 - 代码和词表：[MIT License](LICENSE)，随便用，随便改。
-- 下面的橘子洲照片不是 MIT：作者 EditQ，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)，来源 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Orange_Isle_10.jpg)。
+- 下面的照片不是 MIT：作者 Jonasjiangming，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)，来源 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Changsha_Yuelu_20230723.jpg)。
 
-<p align="center"><img src="assets/orange-isle.jpg" alt="长沙橘子洲" width="80%"><br><sub>🍊 橘子洲，湘江中间。Photo: EditQ, CC BY-SA 4.0</sub></p>
+<p align="center"><img src="assets/changsha-skyline.jpg" alt="从岳麓山看长沙夜景" width="100%"><br><sub>🌇 从岳麓山上看长沙，湘江对岸。Photo: Jonasjiangming, CC BY-SA 4.0</sub></p>
 
 ---
 
